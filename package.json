@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/my-react-project/",
+    "build": "vite build --base=/02-react-cafe/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
